@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
      */
     private SectionsPagerAdapter mSectionsPagerAdapter;
 
-    /**
+    /** This is a test
      * The {@link ViewPager} that will host the section contents.
      */
     private ViewPager mViewPager;
